@@ -1,0 +1,60 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/coachhub-cover.png"
+    pretitle: "MVP"
+    title: "CoachHub"
+    text: "A carreer development app offering employees of companies in-app coaching sessions to further their career development, build confidence and manage stress."
+
+    buttons:
+      - label: "View app"
+        url: "https://apps.apple.com/us/app/coachhub-mobile/id1445865099"
+
+      - label: "Read more"
+        url: "#"
+        
+  - image: "images/session-cover.png"
+    pretitle: "MVP"
+    title: "Session"
+    text: "The Session App is made for photographers to have a easy way to view their bookings and inquiries on the go."
+
+    buttons: 
+      - label: "View app"
+        url: "https://apps.apple.com/us/app/session-booking/id1571588734"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/mimi-cover.png"
+    pretitle: "Contract Work"
+    title: "Mimi Hearing Technologies"
+    text: "A revolutionary hearing test app and an SDK for sound processing technology that replicates the way the human ear works"
+
+    buttons:
+      - label: "View app"
+        url: "https://apps.apple.com/us/app/mimi-hearing-test/id932496645"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/douglas-cover.png"
+    pretitle: "Contract Work"
+    title: "Douglas – Parfüm & Kosmetik"
+    text: "Architecutre and implementation of tracking system for Parfümerie Douglas using Objc, RxSwift, Jenkins, XCTest, MVVM, Tealium"
+
+    buttons: 
+      - label: "View app"
+        url: "https://apps.apple.com/de/app/douglas-parf%C3%BCm-kosmetik/id394685685"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/ccep-cover.png"
+    pretitle: "Contract Work"
+    title: "OSF Digital - CCEP"
+    text: "The CCEP app enables sales representatives to plan and manage their daily visits to the shops offering their products."
+
+    buttons:
+      - label: "Read more"
+        url: "#"

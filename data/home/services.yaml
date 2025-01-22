@@ -1,0 +1,22 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/software-development.png"
+      title: "Software Development"
+      text: "Great pride in building software using clean code & clean architecture to ensure extensibility and speed for future growth."
+
+    - image: "images/prototyping-desing.png"
+      title: "Prototyping, UX/UI"
+      text: "Turning ideas into products that are then tested, measured and refined to create beautiful experiences."
+
+    - image: "images/consultancy.png"
+      title: "Technical consultancy"
+      text: "Years of experience creating products enables us to help you decide which path to take or how to tackle a complex problems."
+
+    - image: "images/support-handover.png"
+      title: "Maintenance, support and handover"
+      text: "Yes we are here for you after the product is released and if you decide you need an in house team we are happy to create a very well documented handover."

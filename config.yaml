@@ -1,0 +1,62 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+title: "Launch"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Launch"
+  description: "We specialize in building mobile applications for customers."
+  images:
+    - "images/hero-image.png"
+
+  logo: "logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Minoru Kozuki 150 19053-550 BR"
+
+  contact:
+    - "trungkienspktnd@gamail.com"
+    - "207.555.0119"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 2
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 3
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 2
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "We make apps that people **love**"
+  text: "Over 10 years of experience building high quality mobile applications for big and small companies"
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

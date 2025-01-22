@@ -1,0 +1,18 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+  list:
+    - text: "Beatriz joined our development team during a complex infrastructure change of our Douglas App. She supported us with her excellent knowledge about robust software development and wise choices about architectural challenges. Beatriz's outstanding dedication to clean code and her strong focus on excellent code quality was the perfect addition to our team at that time. Beatriz always brought a positive attitude to every meeting and discussion. Paired with her excellent communication skills, it was a pleasure working with her. I appreciated Beatriz as a colleague and would always consider her partnership in complex project again"
+      client: "Stephan Wollf - iOS Lead - Douglas"
+      image: "images/stephan-wolff.png"
+
+    - text: "Working with Beatriz is a great pleasure. She is a highly dedicated iOS expert and submits her deliveries with excellent quality. She is a self-starter and works super organized. At the same time she is a great team player and you can tell she has many years of experience in her fields. I can honestly highly recommend Beatriz and look forward to working with her again in future."
+      client: "Matti Niebelschuetz - Co-Founder - Coachhub"
+      image: "images/matti-niebelschuetz.png"
+
+    - text: "Working with Beatriz was a great experience. She works always trying her best, open to listen and learn, sharing her thoughts, experiences and ideas with the rest and always with respect. To me, while o was working with Beatriz, it was a time of not o my working, it was time to learn about iOS development and agile practices."
+      client: "Mario Romero Rodriguez - iOS Lead - CCEP"
+      image: "images/mario-rodriguez.png"
+
