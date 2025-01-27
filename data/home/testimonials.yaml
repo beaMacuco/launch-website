@@ -2,7 +2,8 @@ enabled: true
 id: "testimonials"
 
 content:
-  title: "Testimonials"
+  title: "What Our Clients Say"
+  text: "Don’t just take our word for it—hear from the people who’ve trusted us to bring their app ideas to life. From startups to growing businesses, our clients share their experiences working with us."
   list:
     - text: "Beatriz joined our development team during a complex infrastructure change of our Douglas App. She supported us with her excellent knowledge about robust software development and wise choices about architectural challenges. Beatriz's outstanding dedication to clean code and her strong focus on excellent code quality was the perfect addition to our team at that time. Beatriz always brought a positive attitude to every meeting and discussion. Paired with her excellent communication skills, it was a pleasure working with her. I appreciated Beatriz as a colleague and would always consider her partnership in complex project again"
       client: "Stephan Wollf - iOS Lead - Douglas"

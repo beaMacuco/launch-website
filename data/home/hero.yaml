@@ -3,13 +3,8 @@ id: "hero"
 
 content:
   title: "We make apps that people **love**"
-  text: "Over 10 years of experience building high quality mobile applications for big and small companies"
+  text: "With over 10 years of experience building high-quality mobile applications, we specialize in crafting MVPs that validate your idea, attract users, and secure investors—quickly and efficiently."
 
   buttonPrimary:
-    label: "How we work"
-    url: "#"
-
-  buttonSecondary:
     label: "Let's talk"
     url: ""
-

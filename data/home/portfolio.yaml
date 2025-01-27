@@ -2,9 +2,24 @@ enabled: true
 id: "portfolio"
 
 content:
+ title: "Portfolio"
+ text: "From innovative startups to established brands, we pride ourselves on delivering high-quality mobile apps that solve real problems and create lasting user experiences."
+ cards:
+  - image: "images/willow-app-cover.png"
+    pretitle: "Minimum Viable Product"
+    title: "Willow: Better Spending Habits"
+    text: "A carreer development app offering employees of companies in-app coaching sessions to further their career development, build confidence and manage stress."
+
+    buttons:
+      - label: "View app"
+        url: "https://apps.apple.com/us/app/willow-better-spending-habits/id6670408045?l"
+
+      - label: "Read more"
+        url: "portfolio/willow"
+        
   - image: "images/coachhub-cover.png"
-    pretitle: "MVP"
-    title: "CoachHub"
+    pretitle: "Minimum Viable Product"
+    title: "CoachHub: Digital Coaching Platform"
     text: "A carreer development app offering employees of companies in-app coaching sessions to further their career development, build confidence and manage stress."
 
     buttons:
@@ -12,11 +27,11 @@ content:
         url: "https://apps.apple.com/us/app/coachhub-mobile/id1445865099"
 
       - label: "Read more"
-        url: "#"
+        url: "portfolio/coachhub"
         
   - image: "images/session-cover.png"
-    pretitle: "MVP"
-    title: "Session"
+    pretitle: "Minimum Viable Product"
+    title: "Session: Booking for photographers"
     text: "The Session App is made for photographers to have a easy way to view their bookings and inquiries on the go."
 
     buttons: 
@@ -24,7 +39,7 @@ content:
         url: "https://apps.apple.com/us/app/session-booking/id1571588734"
 
       - label: "Read more"
-        url: "#"
+        url: "portfolio/session"
 
   - image: "images/mimi-cover.png"
     pretitle: "Contract Work"
@@ -36,7 +51,7 @@ content:
         url: "https://apps.apple.com/us/app/mimi-hearing-test/id932496645"
 
       - label: "Read more"
-        url: "#"
+        url: "portfolio/mimi"
 
   - image: "images/douglas-cover.png"
     pretitle: "Contract Work"
@@ -48,7 +63,7 @@ content:
         url: "https://apps.apple.com/de/app/douglas-parf%C3%BCm-kosmetik/id394685685"
 
       - label: "Read more"
-        url: "#"
+        url: "portfolio/douglas"
 
   - image: "images/ccep-cover.png"
     pretitle: "Contract Work"
@@ -57,4 +72,4 @@ content:
 
     buttons:
       - label: "Read more"
-        url: "#"
+        url: "portfolio/ccep"

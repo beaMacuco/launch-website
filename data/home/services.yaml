@@ -3,20 +3,24 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "Got a groundbreaking app idea but don't know how to start? Building a full-fledged app can be expensive, time-consuming, and risky. We help you launch a lean, cost-effective MVP to test your idea with real users, gather feedback, and iterate for success, all without breaking the bank."
   cards:
+    - image: "images/consultancy.png"
+      title: "Rapid Prototyping"
+      text: "Turn your concept into a clickable prototype to visualize your app and gather early feedback from users and stakeholders."
+        
     - image: "images/software-development.png"
-      title: "Software Development"
-      text: "Great pride in building software using clean code & clean architecture to ensure extensibility and speed for future growth."
+      title: "Mobile Software Development"
+      text: "We take great pride in building software with clean code and clean architecture, ensuring scalability, extensibility, and speed for future growth."
 
     - image: "images/prototyping-desing.png"
-      title: "Prototyping, UX/UI"
-      text: "Turning ideas into products that are then tested, measured and refined to create beautiful experiences."
-
-    - image: "images/consultancy.png"
-      title: "Technical consultancy"
-      text: "Years of experience creating products enables us to help you decide which path to take or how to tackle a complex problems."
+      title: "User-Centered Design"
+      text: "We create intuitive UI/UX and cohesive branding to delight users, build trust, and make your app memorable, ensuring long-term loyalty and market impact."
 
     - image: "images/support-handover.png"
       title: "Maintenance, support and handover"
-      text: "Yes we are here for you after the product is released and if you decide you need an in house team we are happy to create a very well documented handover."
+      text: "Yes, we’re here to support you even after your product is released. If you decide to build an in-house team, we’ll ensure a smooth transition with a thoroughly documented handover."
+      
+    - image: "images/aso-data-driven.png"
+      title: "App Store Optimization & Launch Support"
+      text: "We help your app get discovered with expert ASO strategies, compelling descriptions, keyword optimization, and eye-catching visuals—setting you up for maximum visibility in app stores."
