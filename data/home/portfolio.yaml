@@ -9,67 +9,61 @@ content:
     pretitle: "Minimum Viable Product"
     title: "Willow: Better Spending Habits"
     text: "A carreer development app offering employees of companies in-app coaching sessions to further their career development, build confidence and manage stress."
-
-    buttons:
-      - label: "View app"
-        url: "https://apps.apple.com/us/app/willow-better-spending-habits/id6670408045?l"
-
-      - label: "Read more"
-        url: "portfolio/willow"
+    buttonPrimary:
+      label: "View app"
+      url: "https://apps.apple.com/us/app/willow-better-spending-habits/id6670408045?l"
+    buttonSecondary:
+      label: "Read more"
+      url: "portfolio/willow"
         
   - image: "images/coachhub-cover.png"
     pretitle: "Minimum Viable Product"
     title: "CoachHub: Digital Coaching Platform"
     text: "A carreer development app offering employees of companies in-app coaching sessions to further their career development, build confidence and manage stress."
-
-    buttons:
-      - label: "View app"
-        url: "https://apps.apple.com/us/app/coachhub-mobile/id1445865099"
-
-      - label: "Read more"
-        url: "portfolio/coachhub"
+    buttonPrimary:
+      label: "View app"
+      url: "https://apps.apple.com/us/app/coachhub-mobile/id1445865099"
+    buttonSecondary:
+      label: "Read more"
+      url: "portfolio/coachhub"
         
   - image: "images/session-cover.png"
     pretitle: "Minimum Viable Product"
     title: "Session: Booking for photographers"
     text: "The Session App is made for photographers to have a easy way to view their bookings and inquiries on the go."
-
-    buttons: 
-      - label: "View app"
-        url: "https://apps.apple.com/us/app/session-booking/id1571588734"
-
-      - label: "Read more"
-        url: "portfolio/session"
+    buttonPrimary:
+      label: "View app"
+      url: "https://apps.apple.com/us/app/session-booking/id1571588734"
+    buttonSecondary:
+      label: "Read more"
+      url: "portfolio/session"
 
   - image: "images/mimi-cover.png"
     pretitle: "Contract Work"
     title: "Mimi Hearing Technologies"
     text: "A revolutionary hearing test app and an SDK for sound processing technology that replicates the way the human ear works"
-
-    buttons:
-      - label: "View app"
-        url: "https://apps.apple.com/us/app/mimi-hearing-test/id932496645"
-
-      - label: "Read more"
-        url: "portfolio/mimi"
+    buttonPrimary:
+      label: "View app"
+      url: "https://apps.apple.com/us/app/mimi-hearing-test/id932496645"
+    buttonSecondary:
+      label: "Read more"
+      url: "portfolio/mimi"
 
   - image: "images/douglas-cover.png"
     pretitle: "Contract Work"
     title: "Douglas – Parfüm & Kosmetik"
     text: "Architecutre and implementation of tracking system for Parfümerie Douglas using Objc, RxSwift, Jenkins, XCTest, MVVM, Tealium"
-
-    buttons: 
-      - label: "View app"
-        url: "https://apps.apple.com/de/app/douglas-parf%C3%BCm-kosmetik/id394685685"
-
-      - label: "Read more"
-        url: "portfolio/douglas"
+    buttonPrimary:
+      label: "View app"
+      url: "https://apps.apple.com/de/app/douglas-parf%C3%BCm-kosmetik/id394685685"
+    buttonSecondary:
+      label: "Read more"
+      url: "portfolio/douglas"
 
   - image: "images/ccep-cover.png"
     pretitle: "Contract Work"
     title: "OSF Digital - CCEP"
     text: "The CCEP app enables sales representatives to plan and manage their daily visits to the shops offering their products."
-
-    buttons:
-      - label: "Read more"
-        url: "portfolio/ccep"
+    buttonSecondary:
+      label: "Read more"
+      url: "portfolio/ccep"

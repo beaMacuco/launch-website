@@ -1,0 +1,10 @@
+enabled: true
+id: "how-it-works"
+
+content:
+  title: "How It Works"
+  items:
+    - text: "**Discovery Call:** We map out your vision and core features."
+    - text: "**Wireframes and Design:** You see your idea come to life visually."
+    - text: "**Development Sprint:** Rapid builds with regular check-ins."
+    - text: "**Launch and Feedback:** Your MVP goes live for real-world validation."

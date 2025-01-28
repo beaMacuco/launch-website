@@ -2,7 +2,15 @@
 title: "Mimi Hearing Technologies"
 url: "/portfolio/mimi/"
 content:
+  pretitle: "Contract Work"
   title: "Mimi Hearing Technologies"
+  buttonPrimary:
+    label: "View app"
+    url: "https://apps.apple.com/us/app/mimi-hearing-test/id932496645"
+  buttonSecondary:
+    label: "Client website"
+    url: "https://mimi.io/"
+    
   cards:
     - image: "images/mimi-ear-test.png"
       text: "This is the first project description. It highlights the features of Project 1 and its benefits."

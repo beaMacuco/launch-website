@@ -2,6 +2,7 @@
 title: "OSF Digital - CCEP"
 url: "/portfolio/ccep/"
 content:
+  pretitle: "Contract Work"
   title: "OSF Digital - CCEP"
   cards:
     - image: "images/ccep-dashboard.png"
