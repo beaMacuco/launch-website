@@ -13,9 +13,12 @@ content:
     
   cards:
     - image: "images/mimi-ear-test.png"
-      text: "This is the first project description. It highlights the features of Project 1 and its benefits."
+      text: "Mimi makes sound smarter by personalizing it to your hearing. Their technology adapts audio to match your unique hearing profile, so you can enjoy clearer, richer sound on your favorite devices—whether it’s headphones, smartphones, or TVs. By optimizing audio for you, Mimi not only enhances your listening experience but also helps protect your hearing health.  
+"
     - image: "images/mimi-fine-tuning.png"
-      text: "Here is the second project description. It provides details about Project 2 and its unique approach."
-    - image: "images/mimi-personalization.png"
-      text: "The third project focuses on user experience, showcasing how it solves a specific problem."
+      text: "As part of this contract work for Mimi, the app’s sound personalization system was modernized to enhance performance, making it faster and more responsive. 
+      
+      
+      Additionally, error handling for hardware connections was improved to ensure a smoother and more reliable user experience."
+      
 ---

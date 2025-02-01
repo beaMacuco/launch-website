@@ -3,6 +3,4 @@ id: "cta"
 
 content:
   title: "Get a free estimate!"
-  button:
-    label: "Let's talk"
-    url: "#"
+  text: "Schedule a call, tell us about your app idea, and get a free, no-strings-attached estimate to help you take the first step."

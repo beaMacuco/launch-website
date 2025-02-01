@@ -12,9 +12,26 @@ content:
     url: "https://www.coachhub.com/"
   cards:
     - image: "images/coachhub-activities.png"
-      text: "This is the first project description. It highlights the features of Project 1 and its benefits."
+      text: "CoachHub is a global digital coaching platform that helps businesses unlock their team’s full potential. With a network of over 3,500 certified coaches in 90+ countries and support in more than 80 languages, it makes personalized coaching accessible to employees at every level.  
+      
+
+    The app allows users to:  
+    
+    - Seamlessly book sessions  
+    
+    - Message their coaches  
+    
+    - Join video call sessions"
+
     - image: "images/coachhub-messaging.png"
-      text: "Here is the second project description. It provides details about Project 2 and its unique approach."
+      text: "Additionally, users can access **CoachHub Academy**—a rich library of on-demand resources that helps them practice and grow independently between coaching sessions.  
+      
+      
+      By combining reliable software with an intuitive user experience, the app empowers CoachHub’s mission to make professional coaching scalable, effective, and accessible."
     - image: "images/coachub-call.png"
-      text: "The third project focuses on user experience, showcasing how it solves a specific problem."
+      text: "The client needed an MVP within two months to secure their next round of funding, so we focused on building a product that was both intuitive and powerful. Our priority was to keep it simple while ensuring it had all the essential functionality to showcase its full potential.
+      
+      
+      In just two months, we delivered a fully functional app with seamless messaging, video calling, and scheduling—proving that a streamlined approach doesn’t mean compromising on quality."
+      
 ---

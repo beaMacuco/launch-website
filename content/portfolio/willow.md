@@ -13,9 +13,16 @@ content:
     
   cards:
     - image: "images/first-section.png"
-      text: "This is the first project description. It highlights the features of Project 1 and its benefits."
+      text: " Willow is designed to help users make more intentional decisions about their spending. By creating wishlists, setting reminders, and answering a questionnaire aimed at unveiling the psychology behind their shopping habits, Willow helps users reflect on their purchases.
+
+
+    The app also provides insights into users' spending habits and helps them weigh the pros and cons of potential buys, encouraging lasting mindful consumption habits."
+ 
     - image: "images/second-section.png"
-      text: "Here is the second project description. It provides details about Project 2 and its unique approach."
+      text: "It’s a simple yet powerful tool that puts users in control of their financial choices, giving them more freedom to invest in what truly adds value to their lives.
+      
+      
+      Keeping track of the things you want to buy—and actually waiting before making a purchase—can be tough. That’s why Willow was designed with gamification techniques and a friendly character to make the process easier and more enjoyable."
     - image: "images/willow-insights.png"
-      text: "The third project focuses on user experience, showcasing how it solves a specific problem."
+      text: "The Willow character cheers you on every time you complete a task, adding a fun and encouraging touch while also reminding you why thoughtful spending matters. A lot of care went into making the app both cute and intuitive, and the results speak for themselves—users users enjoy it and really appreciate the design."
 ---
