@@ -1,0 +1,54 @@
+{{ define "main" }}
+<section class="bg-blue-light">
+    <div class="container">
+        <div class="row pb-5">
+          <div class="col-12">
+              {{ with .Params.content.pretitle }}
+                <p class="text-danger fw-semibold mb-2 pt-5">{{ . }}</p>
+              {{ end }}
+            {{ with .Params.content.title }}
+              <h1 class="fs-1 fw-semibold text-primary text-start mb-4">{{ . }}</h1>
+            {{ end }}
+            <div class="d-flex flex-column flex-xl-row">
+              {{ with .Params.content.buttonPrimary }}
+                <a class="btn btn-primary text-light px-4 my-1" href="{{ .url }}">{{ .label }}</a>
+              {{ end }}
+              {{ with .Params.content.buttonSecondary }}
+                <a class="btn btn-outline-primary px-4 my-1 ms-xl-2" href="{{ .url }}">{{ .label }}</a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        {{ range $index, $element := .Params.content.cards }}
+        <div class="row portfolio-feature" style="margin-bottom: 50px;">
+            {{ if mod $index 2 }}
+            <!-- Odd index: Image on the right -->
+            <div class="col-12 col-xl-6 d-flex flex-column justify-content-center order-xl-2">
+                {{ with $element.image }}
+                {{ partial "utilities/image-fluid.html" . }}
+                {{ end }}
+            </div>
+            <div class="col-12 col-xl-6 d-flex flex-column justify-content-center order-xl-1">
+                {{ with $element.text }}
+                <p class="text-black-61 pb-3">{{ . | markdownify }}</p>
+                {{ end }}
+            </div>
+            {{ else }}
+            <!-- Even index: Image on the left -->
+            <div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
+                {{ with $element.image }}
+                {{ partial "utilities/image-fluid.html" . }}
+                {{ end }}
+            </div>
+            <div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
+                {{ with $element.text }}
+                <p class="text-black-61 pb-3">{{ . | markdownify  }}</p>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+        {{ with .Site.Data.home.cta }}{{ partial "sections/cta.html" . }}{{ end }}
+    </div>
+</section>
+{{ end }}

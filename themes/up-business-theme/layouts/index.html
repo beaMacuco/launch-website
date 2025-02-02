@@ -1,0 +1,10 @@
+
+    {{ define "main" }}
+<div class ="bg-blue-light">
+    {{ with .Site.Data.home.hero }}{{ partial "sections/hero.html" . }}{{ end }}
+    {{ with .Site.Data.home.services }}{{ partial "sections/services.html" . }}{{ end }}
+    {{ with .Site.Data.home.portfolio }}{{ partial "sections/portfolio.html" . }}{{ end }}
+    {{ with .Site.Data.home.testimonials }}{{ partial "sections/testimonials.html" . }}{{ end }}
+    {{ with .Site.Data.home.cta }}{{ partial "sections/cta.html" . }}{{ end }}
+</div>
+    {{ end }}

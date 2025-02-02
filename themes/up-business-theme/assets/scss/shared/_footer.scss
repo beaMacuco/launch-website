@@ -1,0 +1,14 @@
+.footer {
+  .footer-brand {
+    img {
+      width: auto;
+      max-height: calc(5.0rem + .6vw);
+    }
+  }
+}
+
+
+.footer-brand img {
+  width: 150px; /* Adjust the width as needed */
+  height: auto; /* Keep the aspect ratio */
+}
