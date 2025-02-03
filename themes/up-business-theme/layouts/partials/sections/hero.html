@@ -11,7 +11,7 @@
         {{ with .content.text }}
           <p class="text-center display-7 text-black-61 text-xl-start pb-4">{{ . | markdownify }}</p>
         {{ end }}
-        <div class="d-flex flex-column flex-xl-row">
+        <div class="d-flex flex-column flex-xl-row justify-content-center justify-content-xl-start">
             {{ partial "shared/calendly.html" . }}
         </div>
       </div>

@@ -29,9 +29,6 @@
           <p class="text-black-61 pb-3">{{ . }}</p>
         {{ end }}
         <div class="d-flex flex-column flex-xl-row">
-          {{ with .buttonPrimary }}
-            <a class="btn btn-primary text-light px-4 my-1  me-xl-4" href="{{ .url }}">{{ .label }}</a>
-          {{ end }}
           {{ with .buttonSecondary }}
             <a class="btn btn-outline-primary px-4 my-1 mr-xl-4" href="{{ .url }}">{{ .label }}<span class="ms-2">{{ partial "icons/arrow-right.html" }}</span></a>
           {{ end }}
