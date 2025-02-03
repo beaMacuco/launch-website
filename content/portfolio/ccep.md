@@ -6,9 +6,14 @@ content:
   title: "OSF Digital - CCEP"
   cards:
     - image: "images/ccep-dashboard.png"
-      text: "This is the first project description. It highlights the features of Project 1 and its benefits."
+      text: "This app is a game-changer for sales representatives, giving them a clear overview of all their past visits while mapping out their upcoming appointments for seamless daily planning. 
+      
+      
+      With all visit data at their fingertips and an interactive map to optimize their routes, sales reps can maximize efficiency and stay organized on the go."
     - image: "images/ccep-map.png"
-      text: "Here is the second project description. It provides details about Project 2 and its unique approach."
-    - image: "images/ccep-list.png"
-      text: "The third project focuses on user experience, showcasing how it solves a specific problem."
+      text: "Behind the scenes, developing this app was no small feat. The extensive use of GPS, essential for tracking and mapping visits, posed a major challenge—draining battery life quickly. 
+      
+      
+      Since battery efficiency was crucial for users who rely on their devices throughout the day, the team had to find innovative solutions to balance accuracy with power consumption. The result is a smart, efficient app that delivers real-time data without compromising battery life."
+      
 ---
