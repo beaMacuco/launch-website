@@ -4,4 +4,7 @@
       flex-direction: row-reverse;
     }
   }
+    .portfolio-feature:last-child {
+        margin-bottom: 0 !important;
+    }
 }
