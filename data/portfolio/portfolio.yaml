@@ -11,7 +11,7 @@ content:
     text: "Willow helps you pause and reflect before you buy, so you can make more intentional choices and spend on what truly matters."
     buttonSecondary:
       label: "Read more"
-      url: "portfolio/willow"
+      url: "willow"
         
   - image: "images/coachhub-cover.png"
     pretitle: "Minimum Viable Product"
@@ -19,7 +19,7 @@ content:
     text: "CoachHub is a global digital mobile first coaching platform that helps businesses unlock their team’s full potential."
     buttonSecondary:
       label: "Read more"
-      url: "portfolio/coachhub"
+      url: "coachhub"
         
   - image: "images/session-cover.png"
     pretitle: "Minimum Viable Product"
@@ -27,7 +27,7 @@ content:
     text: "The Session App is made for photographers to have a easy way to view their bookings and inquiries on the go."
     buttonSecondary:
       label: "Read more"
-      url: "portfolio/session"
+      url: "session"
 
   - image: "images/mimi-cover.png"
     pretitle: "Contract Work"
@@ -35,7 +35,7 @@ content:
     text: "A revolutionary hearing test app and an SDK for sound processing technology that replicates the way the human ear works."
     buttonSecondary:
       label: "Read more"
-      url: "portfolio/mimi"
+      url: "mimi"
 
   - image: "images/douglas-cover.png"
     pretitle: "Contract Work"
@@ -43,7 +43,7 @@ content:
     text: "The eCommerce app for Europe's largest beauty retailer, bringing innovative solutions for an enhanced shopping experience."
     buttonSecondary:
       label: "Read more"
-      url: "portfolio/douglas"
+      url: "douglas"
 
   - image: "images/ccep-cover.png"
     pretitle: "Contract Work"
@@ -51,4 +51,4 @@ content:
     text: "The CCEP app enables sales representatives to plan and manage their daily visits to the shops offering their products."
     buttonSecondary:
       label: "Read more"
-      url: "portfolio/ccep"
+      url: "ccep"

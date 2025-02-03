@@ -1,6 +1,6 @@
 {{ define "main" }}
-<div class ="bg-blue-light">
-{{ with .Site.Data.home.portfolio }}{{ partial "sections/portfolio.html" . }}{{ end }}
+<div class ="section portfolio py-5 bg-blue-light">
+{{ with .Site.Data.portfolio.portfolio }}{{ partial "sections/portfolio.html" . }}{{ end }}
 </div>
 {{ end }}
 

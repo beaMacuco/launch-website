@@ -17,11 +17,7 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-12 col-xl-6 text-center">
-          <!-- Calendly link widget begin -->
-          <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-          <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-          <a class="btn btn-outline-primary px-4" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bea-getwillow/30min?primary_color=3c46e9'});return false;">Let&#39;s talk <span class="ms-2">{{ partial "icons/arrow-right.html" }}</span></a>
-          <!-- Calendly link widget end -->
+          {{ partial "shared/calendly.html" . }}
       </div>
     </div>
   </div>

@@ -18,9 +18,9 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    linkedin: "#"
-    twitter: "#"
+#  social:
+#    linkedin: "#"
+#    twitter: "#"
 
   location:
     - "Minoru Kozuki 150 19053-550 BR"
@@ -36,12 +36,12 @@ menus:
     - name: "Blog"
       url: "/blog"
       weight: 2
-
-  buttons:
-    - name: "Book a call"
-      url: "/#"
-      weight: 3
-      pre: "btn btn-primary text-light"
+#
+#  buttons:
+#    - name: "Book a call"
+#      url: "/#"
+#      weight: 3
+#      pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
@@ -56,5 +56,5 @@ taxonomies:
   series: "series"
   tags: "tags"
 
-permalinks:
-    portfolio = "/portfolio/:slug/"
+#permalinks:
+#    portfolio = "/portfolio/:slug/"
