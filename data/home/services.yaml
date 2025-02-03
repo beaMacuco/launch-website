@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Got a groundbreaking app idea but don't know how to start? Building a full-fledged app can be expensive, time-consuming, and risky. We help you launch a lean, cost-effective MVP to test your idea with real users, gather feedback, and iterate for success, all without breaking the bank."
+  text: "Got a groundbreaking app idea but don’t know where to start? Bringing an app to life can be complex, costly, and time-consuming. Whether you're launching an MVP to test the waters or building a full-scale product, we help you develop a high-quality, user-focused app—efficiently and cost-effectively."
   cards:
     - image: "images/consultancy.png"
       title: "Rapid Prototyping"
