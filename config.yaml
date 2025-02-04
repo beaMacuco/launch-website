@@ -18,8 +18,8 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-#  social:
-#    linkedin: "#"
+  social:
+    linkedin: "https://www.linkedin.com/company/105660737/admin/dashboard/"
 #    twitter: "#"
 
   location:
